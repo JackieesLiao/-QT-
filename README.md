@@ -21,4 +21,4 @@
 ## 9：BackSpace(退格)，Clear(清零)
 ### 本计算器计算精度为0.01
 # 运行效果图
-## ![image]()
+## ![image](https://github.com/JackieesLiao/CaculatorPlus/blob/main/effect.png)
